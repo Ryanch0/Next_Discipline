@@ -1,5 +1,5 @@
 'use client'
-import Image, { StaticImageData } from "next/image"
+import Image from "next/image"
 import food0 from '../../public/food0.png'
 import food1 from '../../public/food1.png'
 import food2 from '../../public/food2.png'
